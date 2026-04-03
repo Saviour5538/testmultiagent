@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Project specific
+temp/
+verify_groq.py
+find_working_model.py
+get_model_names.py
+list_models.py
+list_models_all.py
+test_model.py
+models_list.txt
+model_names.txt
+test_model.txt
+
+# OS
+.DS_Store
+Thumbs.db
